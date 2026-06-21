@@ -15,7 +15,7 @@
 | **Written On** | June 21, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/abrazo-de-amor-prohibido/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Abrazo de amor prohibido](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/abrazo-de-amor-prohibido/) |
+| **Get License** | [Request Licensing for Abrazo de amor prohibido](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/abrazo-de-amor-prohibido/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -115,8 +115,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 | Verification Detail | Information |
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
-| **Version** | `v1` |
-| **SHA-256 Hash** | `42c35770a352631cbffa16c50498cc2293856c6b0b9b6a9fbaa7a643e57a3675` |
+| **Version** | `v2` |
+| **SHA-256 Hash** | `c39eb74fee4720907c8c67642b9acd85fda53b1aa82a70486cafeed808ecf619` |
 | **Timestamp** | June 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
