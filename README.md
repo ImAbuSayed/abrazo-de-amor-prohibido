@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Esa mirada me dice que esta noche es pa' los dos
+> Un abrazo prohibido, escapando sin dar la voz
+> Siento la adrenalina cuando te pego a la pared
+> Eres mi vicio en Madrid, y sabes que tengo sed
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
