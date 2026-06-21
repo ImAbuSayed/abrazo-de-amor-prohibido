@@ -12,10 +12,10 @@
 |-------|---------|
 | **Title** | Abrazo de amor prohibido |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | June 09, 2026 |
+| **Written On** | June 21, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/abrazo-de-amor-prohibido/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Abrazo de amor prohibido](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/abrazo-de-amor-prohibido/) |
+| **Get License** | [Get License For Abrazo de amor prohibido](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/abrazo-de-amor-prohibido/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,10 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> Esa mirada me dice que esta noche es pa' los dos
-> Un abrazo prohibido, escapando sin dar la voz
-> Siento la adrenalina cuando te pego a la pared
-> Eres mi vicio en Madrid, y sabes que tengo sed
+> Dame tu calor esta noche, sin miedo al error
+> Tus labios me llaman, provocan mi amor
+> No importa el destino, ni el qué dirán
+> Solo tú y yo, bailando en la oscuridad
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
