@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Abrazo de amor prohibido
+
+This log tracks the cryptographic history and versioning for the song **Abrazo de amor prohibido** (abrazo-de-amor-prohibido).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-22T05:02:12.173244 | `v1` | `42c35770a352631cbffa16c50498cc2293856c6b0b9b6a9fbaa7a643e57a3675` | `dbae2371290a1d612c1d761848858c85cb4571c2626d2aca19b4a40e3a490f2b` | `2026-06-22_abrazo-de-amor-prohibido-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
